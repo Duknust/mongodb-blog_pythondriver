@@ -12,3 +12,12 @@ Week 3
 
 Week 4
 	- Performance
+
+Week 5
+	- Aggregation Framework 
+
+Week 6
+	- Application Engineering
+
+Week 7
+	- Case Studies 
